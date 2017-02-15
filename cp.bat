@@ -1,1 +1,1 @@
-xcopy /c %1 %2 
+xcopy %1 %2 
